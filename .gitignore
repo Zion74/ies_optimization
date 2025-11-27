@@ -1,0 +1,19 @@
+# Python generated files
+__pycache__/
+
+# IDE specific files
+.idea/
+
+# Result folders
+Result*/
+Population Info/
+
+# Generated plots and documents
+*.svg
+*.pdf
+*.txt
+
+# Other irrelevant files
+kmeansClustering.m
+gaproblem_copy.py
+test.py
